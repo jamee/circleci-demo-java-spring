@@ -16,7 +16,7 @@ public class DemoJavaSpringApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		fail("test");
+		System.out.println("test");
 	}
 
 }
